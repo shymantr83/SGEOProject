@@ -1,0 +1,8 @@
+[27-Mar-2024 14:53:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/mimusoft/public_html/sgeo/vendor/nunomaduro/termwind/src/Functions.php on line 17
+[03-May-2024 15:03:37 UTC] PHP Fatal error:  Trait "App\Http\trait\imageTrait" not found in /home/mimusoft/public_html/sgeo/config/AuthController.php on line 18
+[03-May-2024 15:05:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/mimusoft/public_html/sgeo/vendor/nunomaduro/termwind/src/Functions.php on line 17
+[03-May-2024 15:05:20 UTC] PHP Fatal error:  Trait "App\Http\trait\imageTrait" not found in /home/mimusoft/public_html/sgeo/config/AuthController.php on line 18
+[03-May-2024 15:06:11 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/mimusoft/public_html/sgeo/vendor/nunomaduro/termwind/src/Functions.php on line 17
+[03-May-2024 15:13:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/mimusoft/public_html/sgeo/vendor/nunomaduro/termwind/src/Functions.php on line 17
+[03-May-2024 15:16:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/mimusoft/public_html/sgeo/vendor/nunomaduro/termwind/src/Functions.php on line 17
+[03-May-2024 15:20:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/mimusoft/public_html/sgeo/vendor/nunomaduro/termwind/src/Functions.php on line 17
